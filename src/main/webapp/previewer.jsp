@@ -19,7 +19,7 @@
   <style>
     .content.viewer-content {
       height: 100%;
-      margin: 5%;
+      margin: 0%;
     }
   </style>
 </head>
